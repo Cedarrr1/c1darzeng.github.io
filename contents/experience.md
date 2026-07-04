@@ -1,21 +1,39 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Time-Series Anomaly Detection Research**
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Worked on vision-augmented time-series anomaly detection, focusing on how visual structural knowledge can support temporal reconstruction. The project combines multi-view time-series representations, normal prototype retrieval, and prototype-guided coordination for robust anomaly detection.
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+#### Key Contributions
+
+- Built a framework for coordinating visual representations with time-series decoders.
+- Evaluated the method on multiple real-world datasets and representative baselines.
+- Focused on lightweight deployment by removing the visual teacher during inference.
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **Multimodal News Verification and Trustworthy Explanation Platform**
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+Led a student team to build a multimodal platform for news-scene claim analysis, image manipulation detection, region-level evidence localization, and interpretable source-tracing reports.
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+#### Key Contributions
+
+- Integrated vision-language models, parameter-efficient adaptation, segmentation, and report generation.
+- Designed a workflow from key-claim extraction to evidence localization and explanation.
+- The project received national and regional competition awards.
+
+---
+
+### **Frontend Development Intern | Cybersecurity Visualization**
+
+Contributed to a cybersecurity situational-awareness visualization project, with work on reusable visualization components and interface maintenance.
+
+#### Key Contributions
+
+- Developed and maintained frontend visualization components.
+- Supported the implementation of interactive views for network security analysis.
+- Gained experience in building stable, interpretable interfaces for real-world systems.
+
+---
+
+### **LLM Agents and Adaptive Reasoning**
+
+Currently exploring action-first, fork-join style reasoning for large language models. The goal is to help models decide when to continue reasoning, split subtasks, call independent workers, merge intermediate results, and produce verified answers under compute and latency constraints.

@@ -1,6 +1,6 @@
-- XXXXXXX论文
+- **ViCO: Vision-Augmented Time Series Anomaly Detection with Prototype-Guided Coordination**  
+  First-author manuscript under review.
 
-- XXXXXXX论文
-
-- XXXXXXX论文
+- **Multimodal News Verification and Trustworthy Explanation Platform**  
+  Student research project with competition recognition and one related software copyright.
 
